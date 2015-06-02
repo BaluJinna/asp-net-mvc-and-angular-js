@@ -1,0 +1,20 @@
+﻿<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>#</th>
+            <th>Name</th>
+            <th>Title</th>
+            <th>Email Address</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr ng-repeat="c in users">
+            <td>{{c.id}}</td>
+            <td><a href="#/users/{{c.Id}}" style="display:block;">{{c.name}}</a></td>
+            <td>{{c.title}}</td>
+            <td>{{c.email_address}}</td>
+        </tr>
+    </tbody>
+</table>
+
+<hr />

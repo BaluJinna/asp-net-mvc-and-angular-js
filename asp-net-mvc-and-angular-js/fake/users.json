@@ -1,0 +1,7 @@
+﻿[
+    { "Id": "1", "name": "George Lucas", "title": "CEO", "email_address": "email@gmail.com" },
+    { "Id": "2", "name": "Ted Cruz", "title": "Manager", "email_address": "email@gmail.com" },
+    { "Id": "3", "name": "John Travolta", "title": "Staff", "email_address": "email@gmail.com" },
+    { "Id": "4", "name": "Obi-Wan Kenobi", "title": "Staff", "email_address": "email@gmail.com" },
+    { "Id": "5", "name": "Anakin Skywalker", "title": "Staff", "email_address": "email@gmail.com" }
+]

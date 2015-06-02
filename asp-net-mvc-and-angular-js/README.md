@@ -5,6 +5,7 @@ Certain projects require a mix of a Single Page Application together with the cl
 
 ### Project contents
 This project features the following technologies
+
     * AngularJS
     * ASP.NET MVC
     * Bootstrap
